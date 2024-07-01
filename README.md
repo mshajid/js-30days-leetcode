@@ -1,1 +1,1 @@
-# JS 30 Days Neetcode Challenge
+# JS 30 Days LeetCode Challenge
